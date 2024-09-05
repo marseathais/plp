@@ -1,4 +1,3 @@
 # plp
 
-Práticas e estudos para a disciplina Paradigmas de Linguagem
-de Programação.
+Práticas e estudos de programação funcional em Haskell para a disciplina Paradigmas de Linguagem de Programação.
