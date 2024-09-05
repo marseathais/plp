@@ -1,4 +1,4 @@
 # plp
 
-Práticas e estudos para a disciplina de Paradigmas de Linguagem
+Práticas e estudos para a disciplina Paradigmas de Linguagem
 de Programação.
